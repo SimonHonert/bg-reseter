@@ -6,7 +6,7 @@ This system resets your background-image of your pc everfy time you restart them
 git clone https://github.com/SimonBalu/bg-reseter.git
 ```
 2. Run the script:
-###Windows
+### Windows
 ```
 test.bat
 ```
