@@ -10,3 +10,21 @@ git clone https://github.com/SimonBalu/bg-reseter.git
 ```
 test.bat
 ```
+### Linux
+1. Download the Script using Git:
+```
+git clone https://github.com/SimonBalu/bg-reseter.git
+```
+2. Add Permissions to the script:
+```
+chmod +x background.sh
+```
+3. Add Script to Autostart:
+```
+crontab -e
+```
+If a menu pops up, choose nano.
+Add this to the end of the file with you file adress and save and close:
+```
+@reboot  /home/user/test.sh
+```
