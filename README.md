@@ -1,5 +1,5 @@
 # bg-reseter
-This system resets your background-image of your pc everfy time you restart them. So it's perfect for pc-rooms at school. 
+This system resets your background-image of your pc every time you restart them. So it's perfect for pc-rooms at school. 
 ## Setup
 ### Windows
 1. Download the Script using Git:
